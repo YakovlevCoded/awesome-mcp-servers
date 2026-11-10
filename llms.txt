@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 383 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 385 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -284,6 +284,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Bruin MCP](https://getbruin.com/docs/bruin/getting-started/bruin-mcp.html): Local MCP server in the open-source Bruin CLI that lets agents query databases, ingest data, compare tables, and build SQL and Python data pipelines. (Go, official)
 - [CareJobs.Now Healthcare Jobs](https://github.com/yumaheymans/carejobs-mcp): Remote MCP server for US healthcare jobs: search 170,000+ open jobs read daily from 270 hospitals' and health systems' career sites, with the posted pay. Free, read-only, no API key. (Other, official)
 - [CompanyProof](https://companyproof.ai/docs/mcp): Hosted company search, registry profiles and verification of six company identity fields with source evidence, OAuth or API key access, and shared account credits. (Other, official)
+- [Datacircle](https://datacircle.dev): Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. (Other, official)
 - [Datadog MCP Server](https://github.com/datadog-labs/mcp-server): Query metrics, logs, and monitors from Datadog via the official Datadog Labs MCP server. (Python, official)
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp): Run dbt models, tests, and documentation workflows via MCP. (Python, official)
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server): Hosted MCP server and live data layer for data-center site selection: mapped power, grid, gas and fiber assets, daily DCPI scores for 300+ markets and live grid feeds from the seven US ISOs; free tier needs no key. (JavaScript, official)
@@ -363,7 +364,6 @@ Links under each category point at the upstream project, docs, or registry page.
 - [canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp): Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV overfitting probability, data-snooping tests, lookahead checks and pipeline placebos. (JavaScript, official)
 - [Chord](https://github.com/getchordlabs/chord): Hosted MCP server with no API key for data: best-route DEX swap quotes and unsigned transactions on 7 EVM chains (Base, Monad, BNB Chain, Arbitrum and more), plus token boards, candles, wallet PnL and smart money. Non-custodial. (TypeScript, official)
 - [Clera](https://github.com/getclera/mcp): Search 210,000+ vetted startup candidates, review Clera's picks for your open roles, and request intros through a hosted OAuth MCP server. (TypeScript, official)
-- [Datacircle](https://docs.datacircle.dev/mcp-server): Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth 2.1 or an API key. (Python, official)
 - [Elori](https://github.com/elori-debug/elori-mcp): Hosted sales pipeline, contacts and meeting workflows via approved Elori actions; OAuth and a verified Director or Autopilot account required. (TypeScript, official)
 - [Equibles](https://equibles.com/mcp): Hosted MCP server for US company fundamentals as reported in SEC filings, filing text, earnings-call transcripts, 13F holdings and insider trades, with OAuth or API-key access. (C#, official)
 - [Fincept MCP](https://github.com/Fincept-Corporation/fincept-mcp-docs): Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines, with OAuth sign-in. (Other, official)
